@@ -1,4 +1,4 @@
-## Descripción del Backend - Aplicación MERN de Frases en Inglés
+## Descripción del Backend - Aplicación MERN de Frases en Inglés y portugués
 
 Este repositorio contiene el backend de una aplicación web desarrollada utilizando el stack MERN (MongoDB, Express, React, Node.js). El backend está encargado de gestionar las frases almacenadas en una base de datos MongoDB, proporcionando una API que permite obtener, filtrar, y manipular estas frases de acuerdo con sus categorías e idiomas, para su posterior uso en el frontend de la aplicación.
 
