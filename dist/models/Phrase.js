@@ -15,7 +15,7 @@ const phraseSchema = new mongoose_1.default.Schema({
         required: true,
         enum: [
             // English categories
-            'Greeting and Introducing', 'Health and Wellness', 'Shopping and Business',
+            'Greeting and Introducing', '1000 Nouns', 'Adjectives and Adverbs', 'Prepositions and Conjunctions', 'Articles, Determiners and Interjections', 'Health and Wellness', 'Shopping and Business',
             'Travel and Tourism', 'Family and Personal Relationships', 'Work and Professions',
             'Education and Learning', 'Food and Restaurants', 'Emergencies and Safety',
             'Entertainment and Leisure', 'Technology and Communication', 'Culture and Society',
